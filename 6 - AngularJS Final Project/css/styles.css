@@ -1,0 +1,39 @@
+body {
+    background-color: #333;
+    color: #fff;
+    margin: 120px auto;
+    max-width: 600px;
+    width: 50%;
+}
+
+.title {
+    border-bottom: 2px solid white;
+    color: lightblue;
+    font-size: 4em;
+    padding-bottom: 40px
+}
+
+.suggestion {
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.comment {
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.form-instructions {
+    color: lightblue;
+}
+
+a {
+    color: lightblue;
+}
+
+.glyphicon {
+    color: lightgreen;
+    cursor: pointer;
+}
